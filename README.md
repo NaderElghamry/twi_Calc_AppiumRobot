@@ -1,1 +1,3 @@
 # twi_Calc_AppiumRobot
+
+This project aims to automate testing for the calculator app using the Appium library and Robot Framework. It includes test cases for login functionality, basic arithmetic operations, screen clearing, viewing history, and deleting calculations. The project utilizes the capabilities of Appium for mobile automation and the flexibility of Robot Framework for test case development. The code and test cases are implemented in a well-structured manner to ensure easy understanding and maintenance. Feel free to explore the code and run the test cases to validate the app's functionality.
